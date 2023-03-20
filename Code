@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lostbunny489/gator/main/Semen", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lostbunny489/Steve/main/obf_5mBx0G68sR5fL0lh1p863yB2ZlGPcy8zovWBCg97STOk7x0sW87TWWPu8XFAf4Vd.lua.txt", true))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lostbunny489/reset-/main/Code", true))()
 
