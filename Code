@@ -28,7 +28,7 @@ KeySettings = {
    FileName = "SiriusKey",
    SaveKey = true,
    GrabKeyFromSite = false,
-   Key = "u"
+   Key = "WeTheBest"
    }
 })
 
