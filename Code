@@ -1,5 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lostbunny489/Swnt/main/obf_oxtpX713qBpTAZm9u193C4r3mCSZ0mFfZxMr5kz76IHwLTcQEI7rf5MM5K70RY2e.lua.txt", true))()
-
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
 local player = game.Players.LocalPlayer
