@@ -185,9 +185,16 @@ local Button = Tab:CreateButton({
 
 })
 
+local Paragraph = Tab:CreateParagraph({Title = "Kill player , This will teleport you to the player and kill them", Content = "it's not instant kill I recommend taking someone around Your level"})
 
-local Paragraph = Tab:CreateParagraph({Title = "Kill player", Content = "This will teleport you to the player and kill them , it's not instant kill I recommend taking someone around Your level"})
+local Button = Tab:CreateButton({
+   Name = "Insta kill Defence",
+   Callback = function()
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Body%20Part%20Destroyer'))()
+   end,
+})
 
+local Paragraph = Tab:CreateParagraph({Title = "", Content = "Execute this and then press delete right hand or uppper arm"})
 local Tab = Window:CreateTab("other")
 
 local Button = Tab:CreateButton({
