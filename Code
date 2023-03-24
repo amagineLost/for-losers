@@ -194,7 +194,8 @@ local Button = Tab:CreateButton({
    end,
 })
 
-local Paragraph = Tab:CreateParagraph({Title = "", Content = "Execute this and then press delete right hand or uppper arm"})
+local Paragraph = Tab:CreateParagraph({Title = "Still in testing ⚠️", Content = "Execute this and then press delete right hand or uppper arm"})
+
 local Tab = Window:CreateTab("other")
 
 local Button = Tab:CreateButton({
